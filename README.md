@@ -1,1 +1,1 @@
-# tfs_gan
+# tfsgan
