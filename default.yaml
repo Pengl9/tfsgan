@@ -1,0 +1,8 @@
+## Model config : default data size : batch_size x 484 x 200 / batch_size x 121 x 200
+
+
+# Parameters related to Covn1 Covn2
+window_list: [1, 2, 4, 8, 16, 32, 64, 128]
+kernel_list: [1, 1, 2, 4, 8, 16, 32, 64]
+stride_list: [1, 2, 4, 6, 8, 10, 12, 14]
+n_list: [60,40,25,25,15,15,10,10]
