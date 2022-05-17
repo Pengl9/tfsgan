@@ -4,4 +4,4 @@ This is the repo for Ubicomp 2022 paper: " TFS_GAN: A Time-Frequency Semantic GA
 
 #### 2022.05.17
 
-First upload [**partial code** of tfsgan]
+First upload [ **partial code** of tfsgan ]
