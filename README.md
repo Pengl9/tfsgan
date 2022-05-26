@@ -12,7 +12,7 @@ pip3 install -r requirement.txt
 
 If having trouble installing PyTorch, follow the original guidance (https://pytorch.org/).
 
-Notably, the code is tested with ```cudatoolkit version 10.2```.
+Notably, the code is tested with ```TFS_GAN Version 1.0```.
 
 ## Pre-training on RF Datasets
 
