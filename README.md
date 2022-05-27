@@ -20,9 +20,9 @@ Download [RF Datasets](https://cloud.tsinghua.edu.cn/d/87c76946e8e44be0a046/) da
 
 To train single-wifi/uwb/mmwave/rfid for 200 epochs, run:
 ```
-# Data_type in a.py needs to be changed.
 python main.py
 ```
+Related parameters in ./Utils/io_utils.py needs to be changed.
 
 ## Logs
 
